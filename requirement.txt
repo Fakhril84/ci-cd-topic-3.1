@@ -1,4 +1,0 @@
-pytest
-git add requirements.txt
-git commit -m "Add requirements.txt for dependency management"
-git push origin main
